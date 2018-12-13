@@ -21,7 +21,7 @@ public class ProcessPageSwing {
 		desc.setText("Select the directory containing both the .txt and .done files.");
 		desc.setBounds(20, 10, 500, 20);
 		jf.add(desc);
-		JLabel desc2=new JLabel("Only files with .txt extension and matching .done file will be read.");
+		JLabel desc2=new JLabel("Only files with .txt extension and matching .done file will be read.soeghwihrjrwojrwogjrwoigjweropgjweijgweio4gj");
 		JLabel desc3=new JLabel("Ensure files are properly formatted");
 		desc2.setBounds(20, 30, 500, 20);
 		desc3.setBounds(20, 50, 500, 20);
